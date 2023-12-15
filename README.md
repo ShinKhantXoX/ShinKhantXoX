@@ -7,6 +7,10 @@
 - 💬 Tips Talk / Life isn't easy before you don't try hard work
 - ⚡ Fun fact: Man United fan 🔴
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="vscode" width="45" height="45"/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=ShinKhantXoX)
