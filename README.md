@@ -7,3 +7,4 @@
 - 💬 Tips Talk / Life isn't easy before you don't try hard work
 - ⚡ Fun fact: Man United fan 🔴
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX)](https://github.com/ashutosh00710/github-readme-activity-graph)
