@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Full+stack+developer;I+am+Frontend+Developer+(React.js,Next.js,Angular.js))](https://git.io/typing-svg)
+
+
 ### Hi there 😄
 
 - 🔭 I’m currently learning on React,React Native, Next.js and Laravel
