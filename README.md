@@ -23,10 +23,6 @@ width="45" height="45"/>
 
 ![](https://komarev.com/ghpvc/?username=ShinKhantXoX)
 
-<span>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShinKhantXoX&theme=highcontrast&locale=my&card_width=450)](https://git.io/streak-stats)
-</span>
 
-<span>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinKhantXoX&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-</span>
