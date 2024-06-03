@@ -19,7 +19,7 @@
 width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="45" height="45" />
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShinKhantXoX/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShinKhantXoX/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
