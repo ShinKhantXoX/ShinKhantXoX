@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs"
 width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravelhorizon.svg" alt="angularjs"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel.svg" alt="laraveljs"
 width="45" height="45"/>
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShinKhantXoX/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
