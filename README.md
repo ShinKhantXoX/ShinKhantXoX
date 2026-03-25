@@ -12,12 +12,7 @@
 - 💬 Tips Talk / Life isn't easy before you don't try hard work </br>
 - ⚡ Fun fact: Man United fan 🔴 </br>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShinKhantXoX/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX&bg_color=fff3d1&color=989090&line=e6be51&point=f49106&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=ShinKhantXoX)
 
