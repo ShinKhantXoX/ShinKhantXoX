@@ -18,4 +18,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShinKhantXoX&theme=humoris&hide_border=true&border_radius=30&locale=my&date_format=j%20M%5B%20Y%5D&fire=EB0000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinKhantXoX&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinKhantXoX&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
