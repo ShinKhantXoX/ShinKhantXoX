@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Full+stack+developer;I+am+Frontend+Developer)](https://git.io/typing-svg)
 
 ### Hi there 😄
-<a href="https://portfolio-latest-liard.vercel.app/" target="__blank" >
+<a href="https://vintage-portfolio-lovat.vercel.app" target="__blank" >
   Portfolio
 </a>
 </br>
 - 🔭 I’m currently learning on React,React Native, Next.js and Laravel </br>
 - 🌱 I’m currently learning React Redux@toolkit React Query and Mui,Joy Ui,Tailwind,mantine,Prime Ui </br>
-- 👯 I’m working with to collaborate on InnoScript Development team </br>
 - 🤔 I’m developed for Coca Cola attendance Qr scanner, POS system, Travel & Tour, E commerce </br>
 - 💬 Tips Talk / Life isn't easy before you don't try hard work </br>
 - ⚡ Fun fact: Man United fan 🔴 </br>
