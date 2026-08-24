@@ -98,7 +98,8 @@
 
 <img src="https://www.shinkhant.site/_next/image?url=%2Furl_shortener%2FURL_Shortener.png&w=1920&q=75" alt="Url Shortener Image" />
 
-A modern URL shortening application with authentication and analytics.
+A modern URL shortening application with authentication and analytics to the url click count.
+Also anonymous users can create up to 5 links per session
 
 **Stack**
 
