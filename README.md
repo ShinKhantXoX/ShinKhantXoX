@@ -152,10 +152,16 @@ My personal developer portfolio showcasing projects, skills and experience.
 # 📊 GitHub Statistics
 
 <div align="center">
+  
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ShinKhantXoX&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  width="48%"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShinKhantXoX&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=ShinKhantXoX&theme=gruvbox&hide_border=true&border_radius=12" />
+<img
+  src="https://streak-stats.demolab.com?user=ShinKhantXoX&hide_border=true&border_radius=12"
+  width="48%"
+/>
 
 </div>
 
