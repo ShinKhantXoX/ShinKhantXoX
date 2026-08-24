@@ -155,6 +155,8 @@ Creating , Updating, Complete the todo list and store the data in the cache with
 
 ### 🌐 Developer Portfolio
 
+<img src="./assets/Hero.png" alt="Portfolio Hero Section image" />
+
 My personal developer portfolio showcasing projects, skills and experience.
 
 **Stack**
