@@ -153,15 +153,17 @@ My personal developer portfolio showcasing projects, skills and experience.
 
 <div align="center">
   
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ShinKhantXoX&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+<!-- <img
+  src="https://YOUR-GITHUB-STATS.vercel.app/api?username=ShinKhantXoX&show_icons=true&hide_border=true"
   width="48%"
 />
 
 <img
   src="https://streak-stats.demolab.com?user=ShinKhantXoX&hide_border=true&border_radius=12"
   width="48%"
-/>
+/> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShinKhantXoX&theme=humoris&hide_border=true&border_radius=30&locale=my&date_format=j%20M%5B%20Y%5D&fire=EB0000)](https://git.io/streak-stats)
 
 </div>
 
@@ -169,7 +171,9 @@ My personal developer portfolio showcasing projects, skills and experience.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX&theme=github-compact&hide_border=true&area=true" />
+<!-- <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX&theme=github-compact&hide_border=true&area=true" /> -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShinKhantXoX&bg_color=fff3d1&color=989090&line=e6be51&point=f49106&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 
