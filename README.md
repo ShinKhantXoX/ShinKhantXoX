@@ -48,7 +48,7 @@
 
 - 🌱 Learning **TypeScript**
 - 📱 Improving **React Native**
-- ☁️ Exploring **AWS & Cloud**
+- ☁️ Exploring **AWS, Cloud, linux**
 - 🏗️ Learning scalable application architecture
 - 🔥 Building personal SaaS / hobby projects
 - 💼 Looking for exciting developer opportunities
@@ -102,17 +102,23 @@ A modern URL shortening application with authentication and analytics.
 
 `Next.js` `TypeScript` `Supabase`
 
+**Live Demo**
+<a href="https://url-shortener-eta-eosin.vercel.app/" target="_blank" />
+
 </td>
 
 <td width="50%">
 
 ### 🌦️ MyWeather
 
-Weather application using real-time weather data with a responsive UI.
+Weather application using real-time weather data with a responsive UI and changing the background the meta data base on current location weather condition.
 
 **Stack**
 
 `Next.js` `TypeScript` `OpenWeather API`
+
+**Live Demo**
+<a href="https://my-weather-wheat.vercel.app" target="_blank" />
 
 </td>
 
@@ -122,13 +128,16 @@ Weather application using real-time weather data with a responsive UI.
 
 <td width="50%">
 
-### 💰 Personal Finance
+### 💰 Win95 Chrome Theme Todo
 
-Personal finance management application for tracking income and expenses.
+Creating , Updating, Complete the todo list and store the data in the cache with expire time
 
 **Stack**
 
-`Next.js` `Supabase` `PostgreSQL`
+`Next.js` `UpStash for Redis Cache`
+
+**Live Demo**
+<a href="https://win95-todo.vercel.app/" target="_blank" />
 
 </td>
 
@@ -141,6 +150,9 @@ My personal developer portfolio showcasing projects, skills and experience.
 **Stack**
 
 `Next.js` `Tailwind CSS` `Framer Motion`
+
+**Live Demo**
+<a href="https://www.shinkhant.site" target="_blank" />
 
 </td>
 
