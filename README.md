@@ -102,7 +102,6 @@ A modern URL shortening application with authentication and analytics.
 
 `Next.js` `TypeScript` `Supabase`
 
-**Live Demo**
 <a href="https://url-shortener-eta-eosin.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-↗-181717?style=flat-square" />
 </a>
@@ -119,7 +118,6 @@ Weather application using real-time weather data with a responsive UI and changi
 
 `Next.js` `TypeScript` `OpenWeather API`
 
-**Live Demo**
 <a href="https://my-weather-wheat.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-↗-181717?style=flat-square" />
 </a>
@@ -140,7 +138,6 @@ Creating , Updating, Complete the todo list and store the data in the cache with
 
 `Next.js` `UpStash for Redis Cache`
 
-**Live Demo**
 <a href="https://win95-todo.vercel.app/" target="_blank" >
   <img src="https://img.shields.io/badge/Live%20Demo-↗-181717?style=flat-square" />
 </a>
@@ -157,7 +154,6 @@ My personal developer portfolio showcasing projects, skills and experience.
 
 `Next.js` `Tailwind CSS` `Framer Motion`
 
-**Live Demo**
 <a href="https://www.shinkhant.site" target="_blank" >
   <img src="https://img.shields.io/badge/Live%20Demo-↗-181717?style=flat-square" />
 </a>
