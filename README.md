@@ -96,6 +96,8 @@
 
 ### 🔗 URL Shortener
 
+<img src="https://www.shinkhant.site/_next/image?url=%2Furl_shortener%2FURL_Shortener.png&w=1920&q=75" alt="Url Shortener Image" />
+
 A modern URL shortening application with authentication and analytics.
 
 **Stack**
@@ -111,6 +113,8 @@ A modern URL shortening application with authentication and analytics.
 <td width="50%">
 
 ### 🌦️ MyWeather
+
+<img src="https://www.shinkhant.site/_next/image?url=%2Fweather%2FMyWeather-One.png&w=1920&q=75" alt="Url Shortener Image" />
 
 Weather application using real-time weather data with a responsive UI and changing the background the meta data base on current location weather condition.
 
@@ -131,6 +135,8 @@ Weather application using real-time weather data with a responsive UI and changi
 <td width="50%">
 
 ### 💰 Win95 Chrome Theme Todo
+
+<img src="https://www.shinkhant.site/_next/image?url=%2Fwin95_todo%2FWin-Todo-One.png&w=1920&q=75" alt="Url Shortener Image" />
 
 Creating , Updating, Complete the todo list and store the data in the cache with expire time
 
